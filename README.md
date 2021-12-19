@@ -46,4 +46,3 @@ The process involved in this project includes:
 📌 Note from Author: Data findings can be visualized more coherently with Tableau. Given the right tools, even limited sets of data can produce valuable insights.
 
 [dataviz]:https://github.com/FatehaRozy/hollywood-market-analysis/blob/main/datasets-cleaned/hollywood_data_cleaning.ipynb
-
